@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "111",
+    "1#1",
+    "111"
+  ],
+  "key": {
+    "#": {
+      "item": "boshwasmagic:vampiric_hammer"
+    },
+    "1": {
+      "item": "boshwasmagic:molten_blood"
+    }
+  },
+  "result": {
+    "item": "boshwasmagic:blood_ingot",
+    "count": 8
+  }
+}

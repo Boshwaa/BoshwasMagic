@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " 1£",
+    " #1",
+    "#  "
+  ],
+  "key": {
+    "£": {
+      "item": "boshwasmagic:molten_blood"
+    },
+
+    "1": {
+      "item": "boshwasmagic:blood_stone"
+    },
+
+    "#": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "boshwasmagic:vampiric_hammer"
+  }
+}

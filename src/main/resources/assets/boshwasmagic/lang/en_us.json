@@ -1,0 +1,17 @@
+{
+  "item.boshwasmagic.blood_stone": "Bloodstone",
+  "item.boshwasmagic.vampiric_hammer": "Vampiric Hammer",
+  "item.boshwasmagic.blood_ingot": "Blood Ingot",
+  "item.boshwasmagic.sapphire": "Sapphire",
+  "item.boshwasmagic.sapphire_pickaxe": "Sapphire Pickaxe",
+  "item.boshwasmagic.molten_blood": "molten_blood",
+
+  "block.boshwasmagic.blood_stone_ore": "Bloodstone Ore",
+  "block.boshwasmagic.blood_stone_block": "Block of Refined Blood",
+  "block.boshwasmagic.sapphire_block": "Sapphire Block",
+  "block.boshwasmagic.sapphire_ore": "Sapphire Ore",
+
+  "creativetab.magic_tab": "Magic Tab"
+
+
+}

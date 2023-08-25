@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "boshwasmagic:blood_ingot"
+    }
+  },
+  "result": {
+    "item": "boshwasmagic:blood_stone_block"
+  }
+}

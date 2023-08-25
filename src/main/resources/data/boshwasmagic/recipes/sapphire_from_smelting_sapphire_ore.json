@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 1.4,
+  "group": "sapphire",
+  "ingredient": {
+    "item": "boshwasmagic:sapphire_ore"
+  },
+  "result": "boshwasmagic:sapphire"
+}

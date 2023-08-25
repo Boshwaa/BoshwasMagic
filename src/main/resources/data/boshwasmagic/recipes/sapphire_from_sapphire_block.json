@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc,",
+  "ingredients": [
+    {
+      "item": "boshwasmagic:sapphire_block"
+    }
+  ],
+  "result": {
+  "item": "boshwasmagic:sapphire",
+    "count": 9
+
+}
+}

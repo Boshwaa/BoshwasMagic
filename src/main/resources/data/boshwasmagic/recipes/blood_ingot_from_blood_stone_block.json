@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc,",
+  "ingredients": [
+    {
+      "item": "boshwasmagic:blood_stone_block"
+    }
+  ],
+  "result": {
+  "item": "boshwasmagic:blood_ingot",
+    "count": 9
+
+}
+}
